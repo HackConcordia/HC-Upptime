@@ -22,19 +22,19 @@
     "url": "https://conuhacks.io",
     "icon": "https://favicons.githubusercontent.com/conuhacks.io",
     "slug": "con-u-hacks",
-    "status": "down",
-    "uptime": "97.33%",
-    "uptimeDay": "84.17%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "97.33%",
-    "time": 244,
-    "timeDay": 231,
-    "timeWeek": 244,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "97.20%",
+    "uptimeDay": "83.40%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "97.20%",
+    "time": 242,
+    "timeDay": 229,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2021-11-16": 228
+      "2021-11-16": 239
     }
   }
 ]
