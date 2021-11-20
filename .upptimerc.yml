@@ -6,6 +6,8 @@ sites:
     url: https://hackconcordia.io
   - name: ConUHacks
     url: https://conuhacks.io
+  - name: ConUHacks Registration
+    url: https://register.conuhacks.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
