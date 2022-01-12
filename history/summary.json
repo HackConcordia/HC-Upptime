@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 519,
-    "timeDay": 446,
-    "timeWeek": 401,
-    "timeMonth": 468,
-    "timeYear": 519,
+    "time": 517,
+    "timeDay": 406,
+    "timeWeek": 397,
+    "timeMonth": 469,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2021-11-28": 32
     }
@@ -25,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/conuhacks.io",
     "slug": "con-u-hacks",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 239,
-    "timeDay": 187,
-    "timeWeek": 242,
+    "timeDay": 213,
+    "timeWeek": 232,
     "timeMonth": 237,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 240,
-    "timeDay": 211,
-    "timeWeek": 212,
-    "timeMonth": 238,
+    "timeDay": 221,
+    "timeWeek": 215,
+    "timeMonth": 237,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2021-11-28": 32
