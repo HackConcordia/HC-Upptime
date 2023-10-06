@@ -1,7 +1,7 @@
 url: https://register.conuhacks.io
-status: up
-code: 200
-responseTime: 289
-lastUpdated: 2023-10-06T03:12:27.463Z
+status: down
+code: 502
+responseTime: 359
+lastUpdated: 2023-10-06T06:27:33.044Z
 startTime: 2021-11-20T19:04:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
