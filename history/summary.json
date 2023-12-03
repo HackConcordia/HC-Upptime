@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.77%",
-    "time": 345,
-    "timeDay": 629,
-    "timeWeek": 368,
-    "timeMonth": 367,
+    "time": 346,
+    "timeDay": 626,
+    "timeWeek": 428,
+    "timeMonth": 371,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2023-10-06": 45,
@@ -41,17 +41,16 @@
     "slug": "con-u-hacks",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "98.98%",
-    "time": 249,
-    "timeDay": 345,
-    "timeWeek": 339,
+    "time": 250,
+    "timeDay": 346,
+    "timeWeek": 356,
     "timeMonth": 327,
-    "timeYear": 243,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-12-02": 9,
       "2023-11-17": 86,
       "2023-10-12": 36,
       "2023-10-11": 21,
@@ -62,8 +61,7 @@
       "2023-09-29": 283,
       "2023-09-26": 28,
       "2023-01-26": 956,
-      "2023-01-25": 1416,
-      "2022-12-03": 31
+      "2023-01-25": 1416
     }
   },
   {
@@ -78,9 +76,9 @@
     "uptimeMonth": "92.57%",
     "uptimeYear": "37.58%",
     "time": 295,
-    "timeDay": 254,
-    "timeWeek": 745,
-    "timeMonth": 479,
+    "timeDay": 260,
+    "timeWeek": 746,
+    "timeMonth": 478,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2023-12-01": 114,
@@ -325,8 +323,7 @@
       "2023-01-25": 37,
       "2023-01-24": 49,
       "2023-01-21": 97,
-      "2022-12-23": 52,
-      "2022-12-03": 96
+      "2022-12-23": 52
     }
   }
 ]
