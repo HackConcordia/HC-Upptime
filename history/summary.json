@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hackconcordia.io.ico",
     "slug": "hack-concordia",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 344,
-    "timeDay": 506,
-    "timeWeek": 326,
-    "timeMonth": 393,
-    "timeYear": 348,
+    "time": 345,
+    "timeDay": 573,
+    "timeWeek": 371,
+    "timeMonth": 402,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2024-05-22": 119,
       "2024-05-21": 820,
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
-    "time": 282,
-    "timeDay": 511,
-    "timeWeek": 341,
-    "timeMonth": 387,
-    "timeYear": 307,
+    "time": 283,
+    "timeDay": 659,
+    "timeWeek": 397,
+    "timeMonth": 398,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2024-05-22": 119,
       "2024-05-21": 819,
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/register.conuhacks.io.ico",
     "slug": "con-u-hacks-registration",
     "status": "down",
-    "uptime": "62.32%",
+    "uptime": "62.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-07-10": 10,
+      "2024-07-11": 10,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -303,8 +304,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   }
 ]
