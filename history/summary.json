@@ -30,7 +30,7 @@
     "url": "https://conuhacks.io",
     "icon": "https://icons.duckduckgo.com/ip3/conuhacks.io.ico",
     "slug": "con-u-hacks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
     "uptimeDay": "68.02%",
     "uptimeWeek": "95.03%",
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-07-23": 261,
+      "2024-07-23": 280,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
