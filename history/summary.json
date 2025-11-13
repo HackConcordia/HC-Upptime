@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 464,
-    "timeDay": 342,
-    "timeWeek": 416,
-    "timeMonth": 497,
+    "timeDay": 428,
+    "timeWeek": 358,
+    "timeMonth": 494,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2025-09-04": 55,
@@ -38,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 467,
-    "timeDay": 265,
-    "timeWeek": 413,
-    "timeMonth": 485,
+    "timeDay": 193,
+    "timeWeek": 322,
+    "timeMonth": 474,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2025-09-04": 54,
@@ -58,16 +58,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/register.conuhacks.io.ico",
     "slug": "con-u-hacks-registration",
     "status": "up",
-    "uptime": "42.82%",
+    "uptime": "42.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "31.16%",
-    "uptimeYear": "2.76%",
-    "time": 264,
-    "timeDay": 364,
-    "timeWeek": 458,
-    "timeMonth": 326,
-    "timeYear": 244,
+    "uptimeMonth": "34.44%",
+    "uptimeYear": "3.03%",
+    "time": 265,
+    "timeDay": 710,
+    "timeWeek": 470,
+    "timeMonth": 335,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2025-11-01": 1369,
       "2025-10-31": 1440,
@@ -421,8 +421,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   }
 ]
